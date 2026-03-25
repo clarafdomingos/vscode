@@ -517,6 +517,7 @@
 			"args": [
 				"${workspaceFolder}/extensions/markdown-language-features/test-workspace",
 				"--extensionDevelopmentPath=${workspaceFolder}/extensions/markdown-language-features",
+				"--extensionDevelopmentPath=${workspaceFolder}/extensions/markdown-basics",
 				"--extensionTestsPath=${workspaceFolder}/extensions/markdown-language-features/out/test"
 			],
 			"outFiles": [

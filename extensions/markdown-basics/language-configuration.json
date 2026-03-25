@@ -34,14 +34,7 @@
 		{
 			"open": "(",
 			"close": ")"
-		},
-		{
-			"open": "<",
-			"close": ">",
-			"notIn": [
-				"string"
-			]
-		},
+		}
 	],
 	"surroundingPairs": [
 		[
